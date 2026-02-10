@@ -28,7 +28,7 @@ Estamos vivendo uma **mudança de paradigma**. Assim como a internet transformou
 
 
 
-Uploading VIDEO-2026-02-10-08-35-28.mp4…
+https://github.com/user-attachments/assets/749aeecc-edd5-4cd4-ac1c-b80060176ccf
 
 
 
