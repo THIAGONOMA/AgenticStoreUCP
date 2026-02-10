@@ -3,6 +3,10 @@
 > **Demonstração de Comércio Autônomo com Agentes de IA**
 >
 > 📍 Apresentado no [**AI Tinkerers São Paulo**](https://saopaulo.aitinkerers.org/)
+>
+> 👤 **Author:** Thiago Mascarenhas
+
+🇺🇸 **English version available:** [README_ENG.md](README_ENG.md)
 
 [![UCP](https://img.shields.io/badge/UCP-Universal_Commerce_Protocol-blue)](https://github.com/anthropics/ucp)
 [![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent-purple)](https://google.github.io/A2A/)
@@ -847,9 +851,31 @@ FuturesUCP/
 
 ---
 
-## 📄 Licença
+## 📄 License
 
-Este projeto é uma demonstração educacional dos protocolos UCP, A2A, AP2 e MCP para comércio autônomo com agentes de IA.
+MIT License - Copyright (c) 2026 **Thiago Mascarenhas**
+
+This project was created as a contribution to **AI Tinkerers São Paulo**.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+See [LICENSE](LICENSE) for the full license text.
 
 ---
 
@@ -859,4 +885,4 @@ Contribuições são bem-vindas! Consulte o [Guia de Instalação](docs/guide.md
 
 ---
 
-*Última atualização: 2026-02-03*
+*Last updated: 2026-02-10*
