@@ -1,0 +1,6 @@
+code,title,type,value,min_purchase,max_uses
+PRIMEIRA10,10% na primeira compra,percentage,10,0,
+LIVROS20,20% em compras acima de R$100,percentage,20,10000,
+FRETE0,Frete Gratis,fixed,0,5000,100
+TECH15,15% em livros de Tecnologia,percentage,15,0,
+BEMVINDO,R$10 de desconto de boas-vindas,fixed,1000,2000,500

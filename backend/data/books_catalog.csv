@@ -1,0 +1,21 @@
+id,title,author,description,price,category,isbn,stock
+book_001,O Codigo do Futuro,Ana Silva,Uma jornada pela evolucao da programacao e o futuro da tecnologia,4990,Tecnologia,978-85-0001-001-0,50
+book_002,Algoritmos da Mente,Carlos Lima,Explorando a intersecao entre neurociencia e ciencia da computacao,5990,Ciencia,978-85-0001-002-7,30
+book_003,Python para Todos,Maria Santos,Guia completo de Python para iniciantes e intermediarios,3990,Programacao,978-85-0001-003-4,100
+book_004,Machine Learning Pratico,Pedro Costa,Implementacoes praticas de ML com exemplos reais,7990,Inteligencia Artificial,978-85-0001-004-1,25
+book_005,Design de APIs,Julia Ferreira,Melhores praticas para criar APIs RESTful escaláveis,4490,Tecnologia,978-85-0001-005-8,40
+book_006,Banco de Dados Moderno,Roberto Alves,SQL e NoSQL para aplicacoes contemporaneas,5490,Tecnologia,978-85-0001-006-5,35
+book_007,Arquitetura de Software,Lucia Mendes,Padroes e praticas para sistemas robustos,6990,Tecnologia,978-85-0001-007-2,20
+book_008,Clean Code em Python,Fernando Reis,Escrevendo codigo Python limpo e manutenivel,4290,Programacao,978-85-0001-008-9,60
+book_009,DevOps na Pratica,Camila Souza,CI/CD e automacao para equipes ageis,5290,DevOps,978-85-0001-009-6,45
+book_010,Seguranca Digital,Andre Martins,Protegendo sistemas e dados na era digital,4790,Seguranca,978-85-0001-010-2,55
+book_011,React Avancado,Bruno Oliveira,Hooks e patterns avancados para React,5190,Frontend,978-85-0001-011-9,40
+book_012,Microsservicos,Patricia Nunes,Arquitetura distribuida com microsservicos,6490,Arquitetura,978-85-0001-012-6,30
+book_013,Kubernetes Essencial,Ricardo Santos,Orquestracao de containers na pratica,5790,DevOps,978-85-0001-013-3,35
+book_014,Data Science com Python,Amanda Costa,Analise de dados e visualizacao,4990,Data Science,978-85-0001-014-0,50
+book_015,Deep Learning,Marcos Silva,Redes neurais profundas e suas aplicacoes,8990,Inteligencia Artificial,978-85-0001-015-7,20
+book_016,Testes Automatizados,Carla Pereira,TDD e BDD para qualidade de software,4190,Qualidade,978-85-0001-016-4,45
+book_017,Git e GitHub,Lucas Rocha,Controle de versao para equipes,2990,Ferramentas,978-85-0001-017-1,80
+book_018,Linux Administracao,Paulo Henrique,Guia completo de administracao Linux,5590,Sistemas,978-85-0001-018-8,40
+book_019,Agile e Scrum,Fernanda Lima,Metodologias ageis para gestao de projetos,3590,Gestao,978-85-0001-019-5,65
+book_020,TypeScript Profissional,Gabriel Souza,TypeScript avancado para projetos reais,4690,Programacao,978-85-0001-020-1,55

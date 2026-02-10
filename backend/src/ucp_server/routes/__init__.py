@@ -1,0 +1,1 @@
+"""Routes do UCP Server."""
