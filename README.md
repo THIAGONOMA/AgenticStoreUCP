@@ -24,6 +24,12 @@ Estamos vivendo uma **mudança de paradigma**. Assim como a internet transformou
 2025: Sites para humanos → Protocolos para agentes
 ```
 
+### Demo
+
+https://github.com/user-attachments/assets/VIDEO-2026-02-10-08-35-28.mp4
+
+> 🎬 [Download Demo Video](docs/VIDEO-2026-02-10-08-35-28.mp4)
+
 ### O Problema Atual
 
 Hoje, mesmo com LLMs avançados, fazer uma compra online requer:
